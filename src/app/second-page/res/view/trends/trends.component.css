@@ -1,0 +1,88 @@
+.cont7 {
+  margin-top: 80px;
+  position: relative;
+}
+.text {
+  justify-content: center;
+}
+.text-2 {
+  margin-top: 10px;
+  font-size: 2.2em;
+}
+.text-3 {
+  margin-top: 20px;
+}
+.data {
+  opacity: .7;
+}
+.images {
+  margin-top: 30px;
+}
+.text-4 {
+  margin-top: 70px;
+  font-family: 'Prompt', sans-serif;
+}
+.icons {
+  bottom: 280px;
+  right: 0;
+  position: absolute;
+}
+.icon {
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 30%;
+  background-color: #d3d3d399;
+  font-size: 1.3em;
+  text-align: center;
+  margin: 30px 15px 0 0;
+  color: gray;
+}
+
+.btn1 {
+  border: none;
+  background-color: blue;
+  color: white;
+  border-radius: 3px;
+}
+.btn2 {
+  border: none;
+  background-color: blue;
+  color: white;
+  border-radius: 3px;
+}
+
+.back {
+  top: -40px;
+  left: 10px;
+  position: absolute;
+}
+
+.next {
+  top: -40px;
+  right: 18px;
+  position: absolute;
+}
+
+.btn-1 {
+  position: relative;
+}
+
+.btn-2 {
+  position: relative;
+}
+
+li {
+  list-style: none;
+}
+
+
+@media only screen and (max-width: 400px) {
+  .image {
+    width: 370px;
+    height: 250px;
+  }
+  .text {
+    font-size: .7em;
+  }
+}

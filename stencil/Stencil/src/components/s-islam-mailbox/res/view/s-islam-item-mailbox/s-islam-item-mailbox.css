@@ -1,0 +1,35 @@
+.ready {
+  color: white;
+  margin: 70px 0 0 50px;
+}
+
+.text-1 {
+  margin: 0 0 70px 50px;
+  color: gray;
+}
+.input {
+  width: 320px;
+  margin-top: 80px;
+  color: gray;
+  border-bottom: 2px solid gray;
+}
+
+.enter {
+  padding: 5px 70px 0 10px;
+}
+
+.btn1 {
+  width: 100px;
+  height: 40px;
+  border: none;
+  color: white;
+  border-radius: 8px;
+  background-color: blue;
+}
+.bolt {
+  color: white;
+}
+.text-3 {
+  color: gray;
+  padding-top: 30px;
+}

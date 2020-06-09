@@ -1,0 +1,6 @@
+.container {
+  margin-top: 100px;
+  max-width: 1024px;
+  background-color: black;
+  border-radius: 5px;
+}

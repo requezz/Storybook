@@ -1,0 +1,20 @@
+.btn1 {
+  color: white;
+  border-radius: 8px;
+  background-color: blue;
+}
+
+.nav {
+  cursor: pointer;
+}
+
+.input {
+  border-radius: 8px;
+  border: 2px solid lightgray;
+}
+
+.enter {
+  padding: 0 30px 0 8px;
+}
+
+

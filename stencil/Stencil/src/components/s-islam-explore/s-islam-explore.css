@@ -1,0 +1,9 @@
+.cont8 {
+  color: white;
+  margin-top: 70px;
+}
+.container {
+  border-radius: 5px;
+  max-width: 1024px;
+  background-color: black;
+}

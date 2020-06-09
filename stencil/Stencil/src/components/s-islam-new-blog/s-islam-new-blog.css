@@ -1,0 +1,21 @@
+.container {
+  max-width: 1024px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.new-1 {
+  margin-bottom: 50px;
+  font-family: 'Rubik', sans-serif;
+}
+
+@media only screen and (max-width: 400px) {
+
+  .row .col-md-4 {
+    flex-direction: column;
+  }
+
+}
+
+
+

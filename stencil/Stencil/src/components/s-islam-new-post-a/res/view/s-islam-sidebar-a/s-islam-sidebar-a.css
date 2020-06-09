@@ -1,0 +1,35 @@
+.image-1 {
+  margin-bottom: 30px;
+  width: 150px;
+  height: 150px;
+  border-radius: 5px;
+}
+
+.container {
+  max-width: 1024px;
+}
+
+.sidebar-2 {
+  padding-left: 10px;
+}
+
+.text-1-3 {
+  text-decoration: underline;
+  font-size: 0.9em;
+}
+
+.text-1-3:hover {
+  color: dodgerblue;
+  cursor: pointer;
+}
+
+.text-1,
+.text-2 {
+  margin-bottom: 15px;
+}
+
+@media only screen and (max-width: 400px) {
+  .text-1 {
+    font-size: 0.8em;
+  }
+}

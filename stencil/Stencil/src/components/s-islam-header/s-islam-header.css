@@ -1,0 +1,29 @@
+.btn1 {
+  color: white;
+  border-radius: 8px;
+  background-color: blue;
+}
+
+.nav {
+  cursor: pointer;
+}
+
+.image {
+  cursor: pointer;
+}
+
+.input {
+  border-radius: 8px;
+  border: 2px solid lightgray;
+  cursor: pointer;
+}
+
+.enter {
+  padding: 0 30px 0 8px;
+}
+
+.material-icons {
+  cursor: pointer;
+}
+
+

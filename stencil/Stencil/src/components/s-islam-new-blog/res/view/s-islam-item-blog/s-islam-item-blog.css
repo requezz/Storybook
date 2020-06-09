@@ -1,0 +1,29 @@
+.image {
+  width: 320px;
+  height: 280px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.title, .text {
+  padding-bottom: 10px;
+}
+
+.text {
+  font-size: 1.1em;
+}
+
+.read {
+  text-decoration: underline;
+}
+
+.read:hover {
+  color: dodgerblue;
+}
+
+@media only screen and (max-width: 400px) {
+
+  .read {
+    margin-bottom: 20px;
+  }
+}

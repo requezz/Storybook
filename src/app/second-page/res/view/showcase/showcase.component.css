@@ -1,0 +1,23 @@
+.cont11 {
+  margin-top: 70px;
+}
+.text-1 {
+  font-family: 'Prompt', sans-serif;
+}
+.images {
+  padding-top: 30px;
+}
+.image {
+  border-radius: 5px;
+}
+
+
+
+@media only screen and (max-width: 400px) {
+  .image {
+    width: 370px;
+  }
+  .text {
+    font-size: .7em;
+  }
+}
